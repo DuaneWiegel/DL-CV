@@ -6,3 +6,9 @@
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+project_3/runs/
+project_3/.cache/
+project_3/*.pt
+project_3/splits/
+project_3/yolo_data.yaml
+project_3/submission_yolo_baseline.csv
